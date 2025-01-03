@@ -1,6 +1,4 @@
-# SECTION 1: BACKGROUND  
-
-## 1 About FIRST 
+# 1 About FIRST 
 FIRST, For Inspiration and Recognition of Science and Technology, is a non-profit organization dedicated to inspiring young people to be leaders and innovators in science and technology. Through programs such as FIRST Robotics Competition and FIRST Lego League, students are encouraged to excel in the areas of science, technology, engineering, and mathematics. FIRST was founded in 1989 by Dean Kamen (inventor of the Segway and the insulin pump) and has since become an international organization that has reached hundreds of thousands of students from elementary school through high school. For more information, visit https://www.firstinspires.org/. 
 ## 1.1 About FRC 
 FIRST Robotics Competition (FRC) is FIRST's oldest robotics program. It is designed to provide a rigorous engineering challenge to high school students as well as teach leadership, collaboration, and project management. Over three thousand teams have anywhere from fewer than ten to over one hundred students with guidance and support from adult mentors. Each year, every FRC team builds a robot to compete in a game released in early January. 
