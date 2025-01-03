@@ -5,7 +5,9 @@ FIRST Team 190 - Gompei and the HERD is an Original & Sustaining FRC team.  Team
 
 ## 2.1 Team History
 FRC 190 was founded in 1992 and has competed all years that the FIRST Robotics Competition has existed.  In 1992, WPI was partnered with Doherty High School.  In 1993, when the Mass Academy was founded, the team partnered with both schools.  Over the years, our high school has been listed as only the Mass Academy, although we have welcomed students from Doherty and many other schools under Mass Academy’s extracurricular exchange.  
-The team has an extensive history of winning awards, especially engineering and creativity awards, on a local and international level.  In 2001, the team captured our first regional victory at the Long Island Regional.   In 2002 at a regional in Virginia, the team won a “Judge’s Award” for Engineering Inspiration for our extensive community outreach focused on spreading awareness for robotics.  From that point forward, FIRST created an “Engineering Inspiration Award”, which is the second highest award offered in FIRST.  In 2007, FRC190 was captain of the World Championship Winning Alliance.  
+
+The team has an extensive history of winning awards, especially engineering and creativity awards, on a local and international level.  In 2001, the team captured our first regional victory at the Long Island Regional.   In 2002 at a regional in Virginia, the team won a “Judge’s Award for Engineering Inspiration" for our extensive community outreach focused on spreading awareness for robotics.  From that point forward, FIRST created an “Engineering Inspiration Award”, which is the second highest award offered in FIRST.  In 2007, FRC190 was captain of the World Championship Winning Alliance.  
+
 A full list of the team’s participation and award history is available in the Appendix (coming soon).  
 
 ## 2.2 Vision, Mission, Motto
