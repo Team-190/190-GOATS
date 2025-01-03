@@ -1,18 +1,16 @@
-# FRC 190 Code Standards
-Welcome to the official website for the code standard guidelines of FRC 190. These standards serve as a comprehensive reference for all team members to follow when writing code for our robotics projects. Consistency and readability are crucial aspects of maintaining a high-quality codebase, and these guidelines are designed to promote best practices across all our programming endeavors.
+# FRC 190 Team Handbook
+This document is intended to contain the information needed for all 190 team members to understand the standards procedures for FRC Team 190. It is updated yearly by Core Leadership to accurately represent the current state of the team.
 
-## Purpose
-The purpose of this document is to establish a set of standards and conventions that ensure clarity, maintainability, and collaboration within our team's software development process. By adhering to these guidelines, we aim to:
+This is a working document being developed in the 2024-25 season and may have entire sections missing or incomplete at this time.
 
-* Enhance code readability and comprehension for all team members.
-* Facilitate seamless collaboration by maintaining consistent coding styles and practices.
-* Promote efficiency and reduce errors through standardized approaches to coding, documentation, and testing.
-* Cultivate a culture of excellence and professionalism in our software development efforts.
+## Congratulations on joining the HERD!
 
-## How to Use These Standards
-In this document, you will find detailed guidelines covering various aspects of coding standards, including naming conventions, formatting rules, documentation practices, and more. When refactoring robot code, it is important to go through class by class and make sure each one is up to each of the standards listed below.
+### Expectations of all Team Members (Mentors and Students):
 
-We encourage all team members to actively contribute to the evolution of our code standards by suggesting improvements, reporting issues, or proposing new guidelines through the repository's [issue tracker](https://github.com/Team-190/190-Robot-Code-Standards/issues) and [pull request mechanism](https://github.com/Team-190/190-Robot-Code-Standards/pulls). Together, we can continuously refine our practices and elevate the quality of our codebase.
-
-## Robots Implemented
-* FRC 190 2024 robots, [Snapback and Whiplash](https://github.com/Team-190/2k24-Robot-Code)
+* We constantly work to meet our goals, mission and vision.
+* We strive to uphold our team motto: Integrity Above All, Service Before Self, Excellence in Everything.
+* We understand we represent our school and sponsors anytime we are with the team or wearing team apparel, and act in a way that would make them proud.
+* We understand that participating in robotics should not be at the cost of taking care of ourselves or our other responsibilities.  We speak up if we are struggling and we work together to find solutions.  
+* Mentors lead by example on all fronts, from how we act at events to how we take care of ourselves and our priorities.
+* All team members shall adhere to all policies and procedures set forth by the team.  Mentors shall follow the FIRST Youth Protection Policy and WPI Minor’s Policy.
+* We look out for and speak up for each other.
