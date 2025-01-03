@@ -38,18 +38,18 @@ Goal 3: To win at least one official award each season
 * Speak Up and Listen with Intent	
     * Everyone’s ideas and experiences matter.  We all learn the most by building off each other and our diverse backgrounds.
     * Show everyone the respect of listening with an open mind while they speak.
-Accept Decisions with Grace
-There are times when you will be passionate about an idea or choice, and the team may choose to go in another direction.  Once that decision has been made, you must learn to let go and move on to supporting the team objective.
-The more time we spend moving together as a cohesive team, the more efficient and productive we can be.
-Show Up for Your Teammates
-Be consistent in your attendance and participation, and of notifying folks of your absence.
-Be sure to provide updates in the stand-up doc, and read and review any updates for days you weren’t in attendance.
-Learn Together
-We acknowledge that everyone has something they can teach and something they can learn.  The best solutions will come from collective wisdom.
-Take inspiration from others and the world around you.  The past experiences serve as great stepping stones to better outcomes so we do not repeat mistakes of the past.
-Acknowledge Your Bias
-Self-reflection is key to adjusting your perspective and being mindful.
-Create a safe space by admitting that everyone is subject to biases; it is how we take steps to combat them that matters.
-Strive for Progress Over Perfection
-Action matters.  The tight schedule of the FRC season means we must be willing to make difficult decisions with confidence to keep things moving.
-We know we will never achieve perfection, so we aim for progress and constant improvement.
+* Accept Decisions with Grace
+   * There are times when you will be passionate about an idea or choice, and the team may choose to go in another direction.  Once that decision has been made, you must learn to let go and move on to supporting the team objective.
+   * The more time we spend moving together as a cohesive team, the more efficient and productive we can be.
+* Show Up for Your Teammates
+   * Be consistent in your attendance and participation, and of notifying folks of your absence.
+   * Be sure to provide updates in the stand-up doc, and read and review any updates for days you weren’t in attendance.
+* Learn Together
+   * We acknowledge that everyone has something they can teach and something they can learn.  The best solutions will come from collective wisdom.
+   * Take inspiration from others and the world around you.  The past experiences serve as great stepping stones to better outcomes so we do not repeat mistakes of the past.
+* Acknowledge Your Bias
+   * Self-reflection is key to adjusting your perspective and being mindful.
+   * Create a safe space by admitting that everyone is subject to biases; it is how we take steps to combat them that matters.
+* Strive for Progress Over Perfection
+   * Action matters.  The tight schedule of the FRC season means we must be willing to make difficult decisions with confidence to keep things moving.
+   * We know we will never achieve perfection, so we aim for progress and constant improvement.
