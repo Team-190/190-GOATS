@@ -6,11 +6,11 @@ FRC190 conducts year-round activities.  The following is the general schedule:
   * Thursday 5-8PM
   * We will meet weekends on a case-by-case basis, with off-season events happening on Saturdays.
 * __IN-SEASON__ (January-April) - Kickoff, official robot brainstorming, design, building, programming, and official competitions.  This is often referred to as Build Season.
- * Mondays 5-9PM (REQUIRED)
- * Wednesdays 5-9PM (OPTIONAL/MAKE UP TIME)
- * Thursday 5-9PM (REQUIRED)
- * Saturday __OR__ Sunday 12-8PM (REQUIRED)
- * Competitions will take place on weekends in March and April.  Dates will change year-to-year. 
+  * Mondays 5-9PM (REQUIRED)
+  * Wednesdays 5-9PM (OPTIONAL/MAKE UP TIME)
+  * Thursday 5-9PM (REQUIRED)
+  * Saturday __OR__ Sunday 12-8PM (REQUIRED)
+  * Competitions will take place on weekends in March and April.  Dates will change year-to-year. 
 * __POST-SEASON__ (May) - Season recap, team celebration, preparation for off-season
  * Thursday 5-8PM
 * __OFF-SEASON__ (June-August) - Off-season competitions, volunteering, and outreach
