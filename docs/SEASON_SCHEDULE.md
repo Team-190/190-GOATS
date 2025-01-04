@@ -15,9 +15,9 @@ FRC190 conducts year-round activities.  The following is the general schedule:
   * Thursday 5-8PM
 * __OFF-SEASON__ (June-August) - Off-season competitions, volunteering, and outreach
   * As needed:
-   * Wednesday/Thursday 5-9PM
-   * Saturday 12-6PM
-  * Demo and other activities will be posted in Slack.
+    * Wednesday/Thursday 5-9PM
+    * Saturday 12-6PM
+   * Demo and other activities will be posted in Slack.
 
 ## 6.1 Typical Workday
 
