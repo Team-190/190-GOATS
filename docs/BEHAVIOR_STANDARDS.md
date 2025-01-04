@@ -15,16 +15,11 @@ When representing our team online, please remember Gracious Professionalism. Jus
 
 ## 1.4 Student-Mentor Ratio Requirement 
 The mentor & student dynamic is critical to the team success and it is also critical that we protect the safety and wellbeing of both our students and mentors. Consistent with the policies of youth protection programs, the following are the guidelines for mentors & students working together. 
-
-When students and mentors are grouped together, either physically or virtually, the group size must always be a minimum of three (2 students & 1 mentor or 1 student & 2 mentors), and more is preferred. At meetings, the entire team is expected to work in large common workspaces.  
-
-All digital communication must follow the student-mentor ratio.  Ideally, all communication happens in Slack public channels or in-person conversation in the team space.  When a mentor or student wants to have digital communication with a limited set of people, there must be enough people in the chat to meet the student-mentor ratio, even if those people are not involved in the chat.
-
-If a student DMs a mentor or a mentor DMs a student, do not respond.  You may tag a team leader into the conversation so it may proceed, answer the question in a public channel, or report it to a team leader to address.
-
-Team Leaders are the only one allowed to be alone with a student when necessary, although all reasonable efforts will be made to prevent this.
-
-At public spaces when others are closeby (competitions, outreach events, attractions, hotel lobbies, restaurants, etc.), it is acceptable to momentarily (less than a few minutes) have a mentor & student together without other team members nearby, because other students and adults are nearby. 
+* When students and mentors are grouped together, either physically or virtually, the group size must always be a minimum of three (2 students & 1 mentor or 1 student & 2 mentors), and more is preferred. At meetings, the entire team is expected to work in large common workspaces.  
+* All digital communication must follow the student-mentor ratio.  Ideally, all communication happens in Slack public channels or in-person conversation in the team space.  When a mentor or student wants to have digital communication with a limited set of people, there must be enough people in the chat to meet the student-mentor ratio, even if those people are not involved in the chat.
+  * If a student DMs a mentor or a mentor DMs a student, do not respond.  You may tag a team leader into the conversation so it may proceed, answer the question in a public channel, or report it to a team leader to address.
+* Team Leaders are the only one allowed to be alone with a student when necessary, although all reasonable efforts will be made to prevent this.
+* At public spaces when others are closeby (competitions, outreach events, attractions, hotel lobbies, restaurants, etc.), it is acceptable to momentarily (less than a few minutes) have a mentor & student together without other team members nearby, because other students and adults are nearby. 
 
 Here are some examples that are okay:
 * Mentor & Student walking the pits together looking at robots
@@ -39,11 +34,11 @@ __Use your common sense!  If you aren’t sure, do not do it.__
 * Plan to attend for the duration of the competition and stay with the team until the competition is over, and, in the case of competitions that require travel, we return to WPI. You are not allowed to leave competition early or to attend other events with family or friends while on the varsity team without explicit, advanced permission. 
 * Always be respectful to other teams, event volunteers, and parents. 
 * Stay with the group. If you need to go anywhere, let the Team Leaders know and find a reasonable time to do so. If you are needed and you are not present, it will reflect poorly on you. 
-* If at any time you must go out of the venue or hotel:
-  * High School Students must have at least two other high school students present with them, no matter how many mentors will be present.  This supersedes the student-mentor ratio requirement in 4.2.4.
-  * You must request and receive written permission (via Slack) from a team leader to do so.  Your request must include specifics on where you are going, why, with whom, and when you will return.
-  * If at any point less that three students are being left at any given location, it must be clear to them they cannot go anywhere off-site now.  
-  * Exception to this is when you are with a designated Team Leader/Mentor.  
+  * If at any time you must go out of the venue or hotel:
+    * High School Students must have at least two other high school students present with them, no matter how many mentors will be present.  This supersedes the student-mentor ratio requirement in 4.2.4.
+    * You must request and receive written permission (via Slack) from a team leader to do so.  Your request must include specifics on where you are going, why, with whom, and when you will return.
+    * If at any point less that three students are being left at any given location, it must be clear to them they cannot go anywhere off-site now.  
+    * Exception to this is when you are with a designated Team Leader/Mentor.  
 * Stay on task and fulfill your role on the Varsity team. Making friends with folks from other teams is highly encouraged, but when you are scouting or performing other Varsity team tasks during competition, refrain from excessive socialization with 190 members and other teams.
 * Follow the Dress Code outlined in Section XXX. 
 
@@ -64,7 +59,9 @@ Unacceptable PDA includes but is not limited to:
 * Rubbing or massaging 
 * Hugging in a romantic manner 
 
-We expect mentors to apply these guidelines to themselves with the maturity of an adult mentor. Additionally, student and mentor relationships must always remain strictly platonic and professional. See FIRST’s Youth Protection Policy for more detail. 
+__We expect mentors to apply these guidelines to themselves with the maturity of an adult mentor.__ 
+
+Additionally, student and mentor relationships must always remain strictly platonic and professional. See FIRST’s Youth Protection Policy for more detail. 
 
 Failure of a student to adhere to this code will result in initial warnings from the captains, and possibly involvement from mentors. If an inappropriate situation arises in which Core Leadership feels it is necessary to intervene in the moment, they will do so. 
 
