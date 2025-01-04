@@ -1,4 +1,4 @@
-* 3 Concern Resolution Process
+# 3 Concern Resolution Process
 
 We strive to immediately resolve concerns of all team members.  Concerns are resolved using the following process:
 
