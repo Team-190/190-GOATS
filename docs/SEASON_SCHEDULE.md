@@ -12,12 +12,12 @@ FRC190 conducts year-round activities.  The following is the general schedule:
   * Saturday __OR__ Sunday 12-8PM (REQUIRED)
   * Competitions will take place on weekends in March and April.  Dates will change year-to-year. 
 * __POST-SEASON__ (May) - Season recap, team celebration, preparation for off-season
- * Thursday 5-8PM
+  * Thursday 5-8PM
 * __OFF-SEASON__ (June-August) - Off-season competitions, volunteering, and outreach
-* As needed:
-  * Wednesday/Thursday 5-9PM
-  * Saturday 12-6PM
- * Demo and other activities will be posted in Slack.
+ * As needed:
+   * Wednesday/Thursday 5-9PM
+   * Saturday 12-6PM
+  * Demo and other activities will be posted in Slack.
 
 ## 6.1 Typical Workday
 
