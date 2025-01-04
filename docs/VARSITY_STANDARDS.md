@@ -47,26 +47,26 @@ Some roles are only for students and others for mentors.  Other roles are open t
 
 ### 3.3.1 Roles for Core Leadership
 
-* Team Operations Leader - Overall responsible for the team and their performance at the event.  Consulted on all decisions to modify the robot, course of action, etc.  They oversee match planning and manage the enforcement of team roles and expectations.  They are primarily responsible for ensuring the team is working towards a common goal.  
-* Team Support Leader - Responsible for the overall health and well-being of the team.  They manage schedules, team meals, and all activities outside robot and on-field execution.  They are an advocate and resource for all team members in supporting their positive experience.
-* Robot/On-field Execution Support - Responsible for overseeing robot repairs and maintenance, monitoring on-field performance, and working to identify issues before they happen.  Support robot repair and maintenance with Pit Crew.
+* __Team Operations Leader__ - Overall responsible for the team and their performance at the event.  Consulted on all decisions to modify the robot, course of action, etc.  They oversee match planning and manage the enforcement of team roles and expectations.  They are primarily responsible for ensuring the team is working towards a common goal.  
+* __Team Support Leader__ - Responsible for the overall health and well-being of the team.  They manage schedules, team meals, and all activities outside robot and on-field execution.  They are an advocate and resource for all team members in supporting their positive experience.
+* __Robot/On-field Execution Support__ - Responsible for overseeing robot repairs and maintenance, monitoring on-field performance, and working to identify issues before they happen.  Support robot repair and maintenance with Pit Crew.
 
 ### 3.3.2 Roles for Students
 
-* Driver/Operator - Responsible for the on-field operation of the robot.  This includes not only controlling the robot, but loading and unloading the robot, setting up the driver station, and coordinating on field with other teams and volunteers.
-* Human Player - Responsible for interacting with game pieces and the game as described in the game manual.  This includes loading and unloading the robot, setting up the driver station, and coordinating on field with other teams and volunteers.
-* Pit Boss - Responsible for the overall management and maintenance of the robot and pit.  They oversee all team members assigned to the pit, managing who does what work, and keeping order.  They manage the execution of pre- and post-match checklists.
-* Technician - Responsible for aiding the drive team in moving the robot to and from the field, setting it up, and going through checklists.  Most commonly this is the Pit Boss or someone else assigned to the pit.
-* Strategist - Responsible for working with the Lead Strategist to use scouting data to develop match strategies and negotiate those with alliance partners.
+* __Driver/Operator__ - Responsible for the on-field operation of the robot.  This includes not only controlling the robot, but loading and unloading the robot, setting up the driver station, and coordinating on field with other teams and volunteers.
+* __Human Player__ - Responsible for interacting with game pieces and the game as described in the game manual.  This includes loading and unloading the robot, setting up the driver station, and coordinating on field with other teams and volunteers.
+* __Pit Boss__ - Responsible for the overall management and maintenance of the robot and pit.  They oversee all team members assigned to the pit, managing who does what work, and keeping order.  They manage the execution of pre- and post-match checklists.
+* __Technician__ - Responsible for aiding the drive team in moving the robot to and from the field, setting it up, and going through checklists.  Most commonly this is the Pit Boss or someone else assigned to the pit.
+* __Strategist__ - Responsible for working with the Lead Strategist to use scouting data to develop match strategies and negotiate those with alliance partners.
 
 ### 3.3.3 Roles for Mentors
-* On-field Coach - Responsible for managing the Drive Team and the execution of strategy on the field.  They act as an alliance coach while supporting our team.  During the pre-season and build season, they manage driver practice, driver/HP tryouts, and advise on robot design and control from an on-field perspective.
-* Lead Strategist - Responsible for aggregating data from scouting to formulate and negotiate strategy along with the on-field coach and strategist.  
+* __On-field Coach__ - Responsible for managing the Drive Team and the execution of strategy on the field.  They act as an alliance coach while supporting our team.  During the pre-season and build season, they manage driver practice, driver/HP tryouts, and advise on robot design and control from an on-field perspective.
+* __Lead Strategist__ - Responsible for aggregating data from scouting to formulate and negotiate strategy along with the on-field coach and strategist.  
 
 ### 3.3.4 Roles for Students or Mentors
-* Pit Support - Mechanical - Responsible for robot repair and upkeep, including but not limited to process pre and post match checklists, doing preventative maintenance on the robot, doing repairs, and ensuring the robot is mechanically ready to compete every match.
-* Pit Support - Programming - Responsible for programming maintenance, including but not limited downloading match logs, monitoring for potential issues, and making improvements and updates if needed by the drive team.
-* Pit Support - Pit Maintenance - Assist in maintaining the pit space as a clean, presentable, and maximum efficiency space.  Maintains a system to track borrowing of tools and materials by other teams and our team.  Supports the management of battery usage, charging, and performance tracking.  May aid in robot maintenance when needed.
-* Scouting Manager - Responsible for developing and maintaining the scouting system used by the team and any collaborative scouting efforts with other teams.  Must ensure the data collected is timely and useful, and provide it efficiently to the Strategists.  Responsible for coordinating alliance selection with the Lead Strategist.
-* Scouting Support - Responsible for watching matches, collecting scouting data, and inputting it correctly into the scouting system.  Aids Scouting Manager with aggregating data and providing meaningful and timely information for team matches.  
-* Herd Helpers - Responsible for aiding other teams at the event if needed and requested. 
+* __Pit Support - Mechanical__ - Responsible for robot repair and upkeep, including but not limited to process pre- and post- match checklists, doing preventative maintenance on the robot, doing repairs, and ensuring the robot is mechanically ready to compete every match.
+* __Pit Support - Programming__ - Responsible for programming maintenance, including but not limited downloading match logs, monitoring for potential issues, and making improvements and updates if needed by the drive team.
+* __Pit Support - Pit Maintenance__ - Assist in maintaining the pit space as a clean, presentable, and maximum efficiency space.  Maintains a system to track borrowing of tools and materials by other teams and our team.  Supports the management of battery usage, charging, and performance tracking.  May aid in robot maintenance when needed.
+* __Scouting Manager__ - Responsible for developing and maintaining the scouting system used by the team and any collaborative scouting efforts with other teams.  Must ensure the data collected is timely and useful, and provide it efficiently to the Strategists.  Responsible for coordinating alliance selection with the Lead Strategist.
+* __Scouting Support__ - Responsible for watching matches, collecting scouting data, and inputting it correctly into the scouting system.  Aids Scouting Manager with aggregating data and providing meaningful and timely information for team matches.  
+* __Herd Helpers__ - Responsible for aiding other teams at the event if needed and requested. 
