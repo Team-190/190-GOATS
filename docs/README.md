@@ -3,6 +3,8 @@ This document is intended to contain the information needed for all 190 team mem
 
 This is a working document being developed in the 2024-25 season and may have entire sections missing or incomplete at this time.
 
+Some content of this handbook is directly inspired by or taken from the handbooks of FRC 1678, FRC 118, and FRC 254.  We thank them for sharing their documents with the community to build off of and learn from!
+
 ## Congratulations on joining the HERD!
 
 ### Expectations of all Team Members (Mentors and Students):
