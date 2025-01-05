@@ -21,16 +21,108 @@ const sidebars: SidebarsConfig = {
     'README',
     {
       type: 'category',
-      label: 'Example Label',
+      label: 'Background',
       items: [
         {
           type: 'doc',
-          id: 'name of doc',
+          id: 'ABOUT_FIRST',
         },
         {
           type: 'doc',
-          id: 'name of doc',
+          id: 'WHO_WE_ARE',
         },
+        {
+          type: 'doc',
+          id: 'TEAM_ORGANIZATION',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Team Operations',
+      items: [
+        {
+          type: 'doc',
+          id: 'SAFETY_CULTURE',
+        },
+        {
+          type: 'doc',
+          id: 'DECISION_MAKING',
+        },
+        {
+          type: 'doc',
+          id: 'CONCERN_RESOLUTION',
+        },
+        {
+          type: 'doc',
+          id: 'MEETING_STANDARDS',
+        },
+        {
+          type: 'doc',
+          id: 'WORKSPACE',
+        },
+        {
+          type: 'doc',
+          id: 'SEASON_SCHEDULE',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Attendance and Behavior',
+      items: [
+        {
+          type: 'doc',
+          id: 'BEHAVIOR_STANDARDS',
+        },
+        {
+          type: 'doc',
+          id: 'DRESS_CODE',
+        },
+        {
+          type: 'doc',
+          id: 'VARSITY_STANDARDS',
+        },
+        {
+          type: 'doc',
+          id: 'ATTENDANCE_STANDARDS',
+        }
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Robot Standards',
+      items: [
+        {
+          type: 'doc',
+          id: 'COMPETITION_READY',
+        },
+        {
+          type: 'doc',
+          id: 'TIBS',
+        },
+        {
+          type: 'doc',
+          id: 'VARSITY_STANDARDS',
+        },
+        {
+          type: 'doc',
+          id: 'ATTENDANCE_STANDARDS',
+        }
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Workspace Standards',
+      items: [
+        {
+          type: 'doc',
+          id: 'CLEANLINESS_STANDARDS',
+        },
+        {
+          type: 'doc',
+          id: 'INJURIES',
+        }
       ],
     },
   ],
