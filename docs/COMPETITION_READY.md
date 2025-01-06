@@ -1,3 +1,4 @@
+# 1 Competition-Ready
 Successful robots are consistent in their performance and reliable in their function.  We achieve this with:
 * Clear understanding of the game mechanics and strategy
 * Prototyped designs to prove concepts
@@ -8,7 +9,7 @@ Successful robots are consistent in their performance and reliable in their func
 * Extensive driver/operator time with the robot on a complete field.
 * Practicing all parts of a team at the competition, including on-field robot setup and removal, selecting and running autos, practicing under time crunches and in distracting environments,
 
-# 1 Competition-Ready Plan
+## 1.1 Competition-Ready Plan
 * At least 50 hours of driver practice on a robot prior to competition.
 * At least 50 tests of any unchanged autonomous mode before it is deployed for competition.
 * At least 3 full practice inspections, preferably with volunteer inspectors, at least one week prior to competition.

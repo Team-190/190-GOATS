@@ -9,11 +9,11 @@ const config: Config = {
 
   // Set the production URL of your site here
   url: 'https://team-190.github.io/',
-  baseUrl: '/190-Robot-Code-Standards/',
+  baseUrl: '/190-GOATS/',
 
   // GitHub pages deployment config.
   organizationName: 'Team-190', // Usually your GitHub org/user name.
-  projectName: '190-Robot-Code-Standards', // Usually your repo name.
+  projectName: '190-GOATS', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -44,13 +44,13 @@ const config: Config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: '190 Code Standard',
+      title: '190 Student Handbook',
       logo: {
         src: 'img/team190_hat_FINAL2.svg',
       },
       items: [
         {
-          href: 'https://github.com/Team-190/190-Robot-Code-Standards',
+          href: 'https://github.com/Team-190/190-GOATS',
           label: 'GitHub',
           position: 'right',
         },
