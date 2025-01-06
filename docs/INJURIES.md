@@ -1,4 +1,4 @@
-## 2 Injuries
+# 2 Injuries
 
 If at any point there is an injury suffered by someone within our space, it is to be reported immediately to the closest RRC staff member.  
 
