@@ -3,7 +3,7 @@ name: Deploy Docusaurus to GitHub Pages
 on:
   push:
     branches:
-      - main # Replace with the branch you want to track
+      - main
 
 permissions:
   contents: read
@@ -11,32 +11,34 @@ permissions:
   id-token: write
 
 jobs:
-  build-and-deploy:
+  deploy:
+    name: Publish
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-
+    defaults:
+      run:
+        working-directory: ./docs
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      # Step 2: Set up Node.js
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 18 # Use the Node.js version supported by Docusaurus
-
-      # Step 3: Install dependencies
-      - name: Install dependencies
-        run: npm install
-
-      # Step 4: Build the site
-      - name: Build site
+          node-version: "20.x"
+          cache: "npm"
+          cache-dependency-path: docs/package-lock.json
+      - name: Install Node.js dependencies
+        run: npm ci
+      - name: Build docs
         run: npm run build
-
-      # Step 5: Deploy to GitHub Pages
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./docs/build"
       - name: Deploy to GitHub Pages
-        env:
-          GIT_USER: ${{ github.actor }}
-          USE_SSH: true
-
-        run: npm run deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
