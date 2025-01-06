@@ -26,7 +26,7 @@ The following are our Hands Up Codes:
 
 For 2 Finger & 3 Finger Hands Up, the team captains or whoever is leading the discussion will determine if we have met the threshold to move on to the next topic or take a break.
 
-## Voting on Decisions
+## 4.3 Voting on Decisions
 When making team-wide decisions on requirements or other major issues, we employ the process described below.  Our goal is to make decisions by consensus and not majority rule whenever possible.  
 
 * Time-limited discussion on key issue:
