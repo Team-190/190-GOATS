@@ -29,8 +29,11 @@ Integrity Above All.  Service Before Self.  Excellence in Everything.
 ## 2.3 Goals and Competencies
 
 ### 2.3.1 Overall Team Goals and Objectives
+
 Goal 1: Enjoy participating in the team and program
+
 Goal 2: To qualify for the World Championship through robot performance
+
 Goal 3: To win at least one official award each season
 
 ### 2.3.2 Core Team Skills to Reach Our Goals
