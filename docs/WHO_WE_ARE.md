@@ -36,6 +36,8 @@ Integrity Above All.  Service Before Self.  Excellence in Everything.
 
    Goal 3: To win at least one official award each season
 
+   Goal 4: To be alliance captain or 1st pick at all events
+
 ### 2.3.2 Core Team Skills to Reach Our Goals
 * Have Fun
     * While building robots is serious business, it should be a passion project.  
