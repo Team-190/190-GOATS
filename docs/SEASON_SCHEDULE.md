@@ -15,15 +15,16 @@ FRC190 conducts year-round activities.  The following is the general schedule:
   * Thursday 5-8PM
 * __OFF-SEASON__ (June-August) - Off-season competitions, volunteering, and outreach
   * As needed:
-    * Wednesday/Thursday 5-9PM
-    * Saturday 12-6PM
+    * Monday 5-8PM
+    * Thursday 5-8PM
+    * Saturday 12-6PM (as needed)
    * Demo and other activities will be posted in Slack.
 
 ## 6.1 Typical Workday
 
 Prior to the meeting - Review information from the previous work hours so you arrive ready to work and knowing where your subteam left off.
 
-4:45-5:00PM - Arrive at Sagamore.
+4:45-5:00PM - Arrive at Sagamore (all are welcome to come early and work on homework or socialize)
 
 5:00-5:10PM - Find your subteam leader and delegate specific tasks.
 
