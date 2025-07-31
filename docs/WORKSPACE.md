@@ -37,17 +37,19 @@ The Workspace consists of four main areas: the Lab, the Shop, the Field, and the
 * Safety glasses must be worn at all times when on the field or within two feet of the field and robots are operating.  
 * The Field area also has a CRUD table for the team that may be used outside of designated work hours only.  
 
-### 5.1.4 The “Airlock”
-* The Airlock is located in SA 141.
-* This is a casual space for the team which includes the Honor Fridge Snacks and Care Cart.  It also has a couch as a space to decompress or have a private discussion.  
-  * Honor Fridge
-    * Snacks and drinks are available for team members.  They cost $.50 each.  You may take something if you are hungry or thirsty, and prepay, pay at the time, or pay later.  It’s an honor fridge because we trust people will pay what they owe.
-    * Snacks or drinks in the open space of the team are no cost.
-  * Cart Cart
-    * A variety of items are available for taking from the Care Cart.  The intention is that sometimes people need access to elements to help them be healthier and happier.  This could be something you need to get through the day, something you or your family need at home, or something you were too busy to go out and get.
-    * You may always take from the Care Cart if you need.   If you have the means to replace or add to the Care Cart you may, but it is absolutely not required.
-    * If you need something that is not there, you can add it to the sheet.  If it’s something more private, you can put a note under Colleen’s keyboard and we will do our best to get it.  There is never a need to identify yourself or will we ever judge you for needing something.
-* Per the Minor’s Policy, minor’s can never be in this room with only one other person and the door closed.  
+### 5.1.4 Quiet Room
+* The Quiet Room is located in SA 141.
+* This is a casual space for the team.  It also has a couch as a space to decompress or have a private discussion.
+* Per the Minor’s Policy, minor’s can never be in this room with only one other person and the door closed.
+
+### 5.1.5 Other Spaces and Resources  
+* Honor Fridge
+  * Snacks and drinks are available for team members.  They cost $.50 each.  You may take something if you are hungry or thirsty, and prepay, pay at the time, or pay later.  It’s an honor fridge because we trust people will pay what they owe.
+  * Snacks or drinks in the open space of the team are no cost.
+* Cart Cart
+  * A variety of items are available for taking from the Care Cart.  The intention is that sometimes people need access to elements to help them be healthier and happier.  This could be something you need to get through the day, something you or your family need at home, or something you were too busy to go out and get.
+  * You may always take from the Care Cart if you need.   If you have the means to replace or add to the Care Cart you may, but it is absolutely not required.
+  * If you need something that is not there, you can add it to the sheet.  If it’s something more private, you can put a note under Colleen’s keyboard and we will do our best to get it.  There is never a need to identify yourself or will we ever judge you for needing something.  
 
 ## 5.2 Workspace Access
 * Team members may request key card access to the building at the start of the season using the Slack channel #cardaccess.  
