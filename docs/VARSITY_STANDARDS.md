@@ -7,11 +7,12 @@ A varsity team is generally the principal team representing a school.  Varsity t
 For 190, the Varsity Team will be those financially supported to attend official events and able to fill key team roles during the season and at events, including but not limited to task leaders, sub-system leaders, drivers, pit boss, strategy manager, coach, etc.
 
 * For High School Students: 
-  * Anyone meeting the Varsity Standards will be fully-funded to attend all team events.  This includes transportation, airfare, and lodging.
-  * We do not want cost to be a barrier to anyone’s participation in the program, which is why we strive to fund all students. However, if your family is able and willing to pay some or all of your attendance, doing so will enable other students and mentors to receive funding and all the team to stretch its budget further. Please contact Colleen privately.
+  * Anyone meeting the Varsity Standards will be partially or fully-funded to attend all team events.  This includes transportation, airfare, and lodging.
+    * We ask that families who can afford to support part of the cost of their student travel do so, which allows us to priortize limited funds to those students who are unable to afford it.  The full cost to travel to the World Championship is typically $1000 per person.
+  * We do not want cost to be a barrier to anyone’s participation in the program, which is why we strive to fund all students whenever we have sponsorships that allow it. If your family is unable to afford to pay anything towards travel, please contact Colleen privately and it will not be an issue.
   * The Mass Academy Director has final say in the ability of any student to attend any event with the team, and may rescind permission to attend at any time for academic or behavioral considerations.    
 * For College Mentors: 
-  * Anyone meeting Varsity Standards will be partially-funded to attend all team events.  This will include no more than 100 dollars for each district event and no more than 500 dollars for the World Championship.  Amount of funding available each year will depend on the number of mentors, number of students, and overall team budget.
+  * Anyone meeting Varsity Standards will be partially-funded to attend all team events.  This will include no more than 100 dollars towards each district event and no more than 500 dollars towards the World Championship.  Amount of funding available each year will depend on the number of mentors, number of students, and overall team budget.
   * Full funding for college mentors may be awarded depending on the number of eligible and interested mentors, their roles, and their need.  There will be no public distinction between those with partial or full funding.
   * We do not want cost to be a barrier to anyone’s participation in the program, so if the requested contribution represents a significant financial hardship, please contact Colleen privately.  She will work with you to allow your continued participation.  In the same vein, if you are able and willing to pay the full cost of your attendance, doing so will enable other team members to receive funding.
 
