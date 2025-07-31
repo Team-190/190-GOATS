@@ -8,12 +8,8 @@ In addition to signing in, select mentors will be asked to evaluate the contribu
   * To be marked present, the team member must 
     * Be active and productive for the time they are signed in.
     * Participate in the ‘Clean 15’ prior to their departure.
-* Absent Notified & Partial Notified 
-  * If you know ahead of time that you will miss a meeting, leadership should be informed at least 24 hours prior to the meeting. If you do so, your absence will be marked as “notified” and you will have the ability to make up for your absence. All notified absences are still counted negatively towards your attendance percentage.
 * Absent Made Up & Partial Made Up 
-  * For notified absences ONLY, you have the ability to make up any work from the meeting, including homework and self-studying any material covered during training. If this action is taken, the absence will be counted positively towards your attendance percentage. It is YOUR responsibility to proactively ask for work to make up and/or attend on another day to make up hours (Wednesday or alternative weekend day).
-* Absent Unnotified & Partial Unnotified 
-  * Unnotified absences cannot be made up and will count negatively towards your attendance percentage. 
+  * For notified absences, you have the ability to make up the missing time.  It is YOUR responsibility to proactively ask for work to make up and/or attend on another day to make up hours (Wednesday or alternative weekend day).
 * Unproductive 
   * If you are not sufficiently productive or are distracting others during a meeting, you may be marked “unproductive.” You will be given warnings when you are marked unproductive so you know what behavior was at fault and should not be repeated. Being marked “unproductive” will count negatively towards your attendance percentage and cannot be made up. 
 
@@ -24,8 +20,6 @@ There will be strict Varsity Status Reviews at/on:
 * The end of B-term
 * The 3rd weekend of February
 * The Monday prior to each competition
-
-__For 2024-25 only, anyone below 85% in B-term will be allowed to make up any missing hours during C-term (through the end of January).__
 
 Removal from the varsity team will also take into consideration issues outside of attendance. Dismissal for reasons other than attendance will be handled using the procedure outlined in Section XX Consequences. 
 
@@ -38,4 +32,4 @@ Reason for dismissal may include, but is not limited to:
 Team Leaders will talk to students that are not meeting the requirements necessary to stay on the Varsity Team or have exhibited behavior that puts them at risk of being removed from the team. 
 
 ## 4.2 Mental Health Days 
-FRC190 recognizes that balancing the robotics season with school, family, and other responsibilities can become stressful and wear on a person’s mental and physical health. The health of each person is always our first priority and thus we offer members the option of Mental Health Days. When needed, every Varsity Team Member may make use of a Mental Health Day, where they can choose to either arrive late to a meeting, leave early, or not attend. There is no defined reason to use a Mental Health Day—mounting stress, family responsibilities, and other events are all equally valid. Unless your use of mental health days become excessive, there will be no questions asked. In the case of excessive usage, the Team Leaders will speak with you about the circumstances and the best way for you to proceed. You must notify leadership in advance when possible and the absence will be marked as notified and will not count negatively towards your percentage. 
+FRC190 recognizes that balancing the robotics season with school, family, and other responsibilities can become stressful and wear on a person’s mental and physical health. The health of each person is always our first priority and thus we offer members the option of Mental Health Days. When needed, every Varsity Team Member may make use of a Mental Health Day, where they can choose to either arrive late to a meeting, leave early, or not attend. There is no defined reason to use a Mental Health Day—mounting stress, family responsibilities, and other events are all equally valid. Unless your use of mental health days become excessive, there will be no questions asked. In the case of excessive usage, the Team Leaders will speak with you about the circumstances and the best way for you to proceed. You must notify leadership in advance when possible and the absence will not count negatively towards your percentage. 
