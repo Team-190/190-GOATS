@@ -6,7 +6,7 @@ Team behavior is subject to all local, state, federal, and campus regulations wi
 When you wear the team logo, you are representing our team, our schools, our community, our sponsors, and yourself wherever you are. You should treat others with respect and kindness. Additionally, your behavior impacts everyone that you represent. At competition, what you say to another team member and how you say it may be overheard by a judge, potential sponsor, or member of another team. Any invited guests must understand this and behave accordingly. All your actions as a team member reflect directly on 190’s team image. 
 
 ## 1.2 During Team Meetings 
-Team members should not use their phones at team meetings or functions unless it is necessary for the work they are doing or for communication with family members. Unacceptable behavior includes but is not limited to: playing games, using social media, or other distracting and unproductive tasks. Students who continue to exhibit unacceptable behaviors during a team meeting may be marked unproductive. 
+Team members should not use their phones at team meetings or functions unless it is necessary for the work they are doing or for communication with family members. Unacceptable behavior includes but is not limited to: playing games, using personal social media, or other distracting and unproductive tasks. Students who continue to exhibit unacceptable behaviors during a team meeting may be marked unproductive. 
 You are expected to respect others at all times and should follow the Golden Rule—treat others how you want to be treated—to help sustain our professional and respectful working environment. 
 You are expected to take initiative during team meetings. If you have nothing to do, you should be seeking out tasks from their peers and leaders or mentors on the team. 
 
@@ -40,14 +40,16 @@ __Use your common sense!  If you aren’t sure, do not do it.__
     * If at any point less that three students are being left at any given location, it must be clear to them they cannot go anywhere off-site now.  
     * Exception to this is when you are with a designated Team Leader/Mentor.  
 * Stay on task and fulfill your role on the Varsity team. Making friends with folks from other teams is highly encouraged, but when you are scouting or performing other Varsity team tasks during competition, refrain from excessive socialization with 190 members and other teams.
-* Follow the Dress Code outlined in Section XXX. 
+* Follow the Dress Code outlined in Section 2 under Attendance and Behavior. 
 
 ## 1.6 Incident Report Form 
 Mentors may fill out incident report forms for behaviors during team meetings, competitions, or other team events where students have violated team policies, including excessive phone use, being unproductive, or otherwise being disruptive. These incident report forms will be reviewed by Core Leadership and will be taken into consideration when evaluating varsity team or selecting students for leadership positions, and may be the basis for removal from the team if the behaviors are consistently repeated. If student team members observe violations of team policies, they should bring it to the attention of a mentor. 
 Any more serious incidents related to bullying, harassment, discrimination, or other behavior that creates an unsafe or hostile team environment should be directly reported to a team leader or trusted mentor. 
 
+The incident report for is located here: https://forms.gle/cw39kvLTgjUMpBoJA 
+
 ## 1.7 PDA Policy 
-All members and mentors of 190 are expected to maintain professional behavior, both in public and at team meetings. All relationships on the team must remain professional, especially with any potential for public displays of affection (PDAs). PDAs are acts of romantic physical intimacy visible to others, not to be confused with platonic acts of friendship. Robotics meetings and events are places for students to work and be focused, and PDAs can be distracting not only to those involved but also to those who witness it. If engaging in a PDA, students create an unprofessional image and an impaired working environment for the team, whether during a team meeting, competition, or other event. Therefore, all forms of PDA are considered inappropriate and are prohibited at any team event. If you are in a relationship with another student on the team, do not let it interfere with robotics. 
+All members and mentors of 190 are expected to maintain professional behavior, both in public and at team meetings. All relationships on the team must remain professional, especially with any potential for public displays of affection (PDAs). PDAs are acts of romantic physical intimacy visible to others, not to be confused with platonic acts of friendship. Robotics meetings and events are places for people to work and be focused, and PDAs can be distracting not only to those involved but also to those who witness it. If engaging in a PDA, team members create an unprofessional image and an impaired working environment for the team, whether during a team meeting, competition, or other event. Therefore, all forms of PDA are considered inappropriate and are prohibited at any team event. If you are in a relationship with another member on the team, do not let it interfere with robotics. 
 
 Unacceptable PDA includes but is not limited to: 
 * Intimate touching 
