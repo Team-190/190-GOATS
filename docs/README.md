@@ -1,7 +1,7 @@
 # FRC 190 Team Handbook
 This document is intended to contain the information needed for all 190 team members to understand the standards procedures for FRC Team 190. It is updated yearly by Core Leadership to accurately represent the current state of the team.
 
-This is a working document being developed in the 2024-25 season and may have entire sections missing or incomplete at this time.
+This is a working document that may be changed, updated, or modified at any time.
 
 Some content of this handbook is directly inspired by or taken from the handbooks of FRC 1678, FRC 118, and FRC 254.  We thank them for sharing their documents with the community to build off of and learn from!
 
