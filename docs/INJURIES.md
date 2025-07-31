@@ -13,7 +13,7 @@ If at any point there is an injury suffered by someone within our space, it is t
 * An emergency shower is located in the loading dock close to the Practice Field.
 
 ## 2.4 Entanglement
-* If a person is at risk of becoming or becomes entangled in a machine:
+If a person is at risk of becoming or becomes entangled in a machine:
 * Immediately hit the Emergency Stop on the machine or on the wall.  This will immediately stop power to the machine(s).
 * Designate a specific person to call for emergency help if necessary.
 * If safe to do so, use trauma shears, located near each machine, to cut the entanglement.
