@@ -21,7 +21,7 @@ There will be strict Varsity Status Reviews at/on:
 * The 3rd weekend of February
 * The Monday prior to each competition
 
-Removal from the varsity team will also take into consideration issues outside of attendance. Dismissal for reasons other than attendance will be handled using the procedure outlined in Section XX Consequences. 
+Removal from the varsity team will also take into consideration issues outside of attendance. Dismissal for reasons other than attendance will be handled using the procedure outlined in Section 1.8 Consequences. 
 
 Reason for dismissal may include, but is not limited to: 
 * Behavior in and outside of team meetings
